@@ -20,10 +20,6 @@ A simple Gradio web application that lets you search for any location in India (
 
 ---
 
-
-
-
-
 ## 🚀 Quick Start
 
 1. **Clone the repo**  
