@@ -20,15 +20,7 @@ A simple Gradio web application that lets you search for any location in India (
 
 ---
 
-![image](https://github.com/user-attachments/assets/de67b149-d2ca-4fdd-b5da-3ec0f19c0bbf)
 
-![image](https://github.com/user-attachments/assets/10020cf7-ea41-45f3-bca2-8578be082b8e)
-
-![image](https://github.com/user-attachments/assets/ff7366d4-f3bb-460b-85d4-99e475fd0053)
-
-![image](https://github.com/user-attachments/assets/4ffd9a8b-b0af-4cb7-a540-0c5c5eea5822)
-
-![image](https://github.com/user-attachments/assets/abde5c2d-cd54-4592-a2b1-539bffacb9d2)
 
 
 
@@ -41,7 +33,15 @@ A simple Gradio web application that lets you search for any location in India (
 ````
 
 2. **Create & activate your virtual environment**
+![image](https://github.com/user-attachments/assets/de67b149-d2ca-4fdd-b5da-3ec0f19c0bbf)
 
+![image](https://github.com/user-attachments/assets/10020cf7-ea41-45f3-bca2-8578be082b8e)
+
+![image](https://github.com/user-attachments/assets/ff7366d4-f3bb-460b-85d4-99e475fd0053)
+
+![image](https://github.com/user-attachments/assets/4ffd9a8b-b0af-4cb7-a540-0c5c5eea5822)
+
+![image](https://github.com/user-attachments/assets/abde5c2d-cd54-4592-a2b1-539bffacb9d2)
    ```bash
    python3 -m venv venv
    source venv/bin/activate
