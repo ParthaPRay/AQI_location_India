@@ -1,0 +1,8 @@
+folium
+gradio
+requests
+requests-cache
+pandas
+pytz
+retry-requests
+openmeteo-requests
